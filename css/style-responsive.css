@@ -158,7 +158,7 @@
     }
 
     /*Slider Parallax*/
-    .da-slide .da-img {
+    /*.da-slide*/ .da-img {
         display:none;
     }
 }
@@ -179,6 +179,6 @@
 
     /*Slider Parallax*/
     .da-slide p {
-        display:none;
+        /*display:none;*/
     }
 }
